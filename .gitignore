@@ -2,13 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/Clients/.vs/Hybrid/FileContentIndex
-/Clients/.vs/Hybrid/v17/.suo
+/Clients/.vs
 /Clients/Hybrid.Maui/bin/Debug
 /Clients/Hybrid.Maui/obj
 /Clients/Hybrid.Wpf/bin/Debug/net8.0-windows
 /Clients/Hybrid.Wpf/obj
-/Clients/.vs/Hybrid/DesignTimeBuild/.dtbcache.v2
-/Clients/.vs/Hybrid/v17/.futdcache.v2
-/Clients/.vs/ProjectEvaluation/hybrid.metadata.v7.bin
-/Clients/.vs/ProjectEvaluation/hybrid.projects.v7.bin
