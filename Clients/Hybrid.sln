@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hybrid.Wpf", "Hybrid.Wpf\Hybrid.Wpf.csproj", "{FAEA4F89-BF7E-42D6-89B6-6C5DAA915A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hybrid.Maui", "Hybrid.Maui\Hybrid.Maui.csproj", "{FD8239DF-3305-474E-A27E-E4714427A5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAEA4F89-BF7E-42D6-89B6-6C5DAA915A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEA4F89-BF7E-42D6-89B6-6C5DAA915A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEA4F89-BF7E-42D6-89B6-6C5DAA915A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEA4F89-BF7E-42D6-89B6-6C5DAA915A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8239DF-3305-474E-A27E-E4714427A5CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5644483C-E6A5-4E4D-987D-AC204217FBC2}
+	EndGlobalSection
+EndGlobal

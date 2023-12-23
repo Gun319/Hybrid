@@ -1,0 +1,16 @@
+﻿@inject IJSRuntime JSRuntime
+@implements IDisposable
+
+@code {
+
+    [JSInvokable]
+    public static Task<string> Test()
+    {
+        return Task.FromResult("Maui Test Function");
+    }
+
+    public void Dispose()
+    {
+
+    }
+}
