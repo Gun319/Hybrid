@@ -8,3 +8,7 @@
 /Clients/Hybrid.Maui/obj
 /Clients/Hybrid.Wpf/bin/Debug/net8.0-windows
 /Clients/Hybrid.Wpf/obj
+/Clients/.vs/Hybrid/DesignTimeBuild/.dtbcache.v2
+/Clients/.vs/Hybrid/v17/.futdcache.v2
+/Clients/.vs/ProjectEvaluation/hybrid.metadata.v7.bin
+/Clients/.vs/ProjectEvaluation/hybrid.projects.v7.bin
